@@ -1,7 +1,7 @@
-# 🧠 Brain Tumor Detection and Segmentation from MRI Images Using Deep Learning  
+#  Brain Tumor Detection and Segmentation from MRI Images Using Deep Learning  
 ### MRI Görüntülerinden Derin Öğrenme ile Beyin Tümörü Tespiti ve Segmentasyonu
 
-## 📌 Proje Hakkında
+##  Proje Hakkında
 
 Bu proje, MRI (Manyetik Rezonans Görüntüleme) verileri üzerinden **beyin tümörlerinin tespiti ve segmentasyonu** işlemlerini gerçekleştirmek amacıyla geliştirilmiştir. Derin öğrenme mimarisi olarak **U-Net** kullanılmış, tıbbi görüntülerin analizi için **SimpleITK**, **NumPy** ve **Keras** kütüphanelerinden yararlanılmıştır.
 
@@ -9,7 +9,7 @@ Projenin amacı, doktorların tanı süreçlerini destekleyebilecek, tümörleri
 
 ---
 
-## 🎯 Hedefler
+##  Hedefler
 
 - MRI görüntülerinden beyindeki tümörleri otomatik olarak tespit etmek  
 - U-Net mimarisi ile tümör bölgesini segment (mask) olarak çıkarmak  
