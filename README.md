@@ -17,25 +17,24 @@ Projenin amacı, doktorların tanı süreçlerini destekleyebilecek, tümörleri
 
 ---
 
-## 🧪 Kullanılan Teknolojiler ve Kütüphaneler
+##  Kullanılan Teknolojiler ve Kütüphaneler
 
 - Python
 - Keras & TensorFlow
 - NumPy & Matplotlib
 - SimpleITK
-- OpenCV
 - scikit-learn
 
 ---
 
-## 🧬 Kullanılan Veri Kümesi
+##  Kullanılan Veri Kümesi
 
 - **BraTS (Brain Tumor Segmentation Challenge)** veri kümesi kullanılmıştır.  
 - MRI görüntüleri ve ilgili maske etiketleri içermektedir.  
 - T1, T2, FLAIR gibi MRI modaliteleri bulunmaktadır.  
-> 🔒 Not: Veri kümesi, yasal nedenlerle bu repo altında paylaşılmamıştır. [BraTS](https://www.med.upenn.edu/sbia/brats2020/data.html) sitesinden erişebilirsiniz.
+>  Not: Veri kümesi, yasal nedenlerle bu repo altında paylaşılmamıştır. [BraTS](https://www.med.upenn.edu/sbia/brats2020/data.html) sitesinden erişebilirsiniz.
 
-## 📊 Model Performansı
+##  Model Performansı
 
 Aşağıda üç farklı modelin performans metrikleri gösterilmiştir. Modeller sırasıyla **tam tümör segmentasyonu**, **ödemsiz tümör segmentasyonu** ve **geniş (enhancing tumor)** segmentasyonu hedefiyle eğitilmiştir.
 
